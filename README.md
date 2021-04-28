@@ -34,7 +34,7 @@ don't work well in web worker. [api doc](https://developer.mozilla.org/en-US/doc
 
 support IE 10~11.
 
-[broken on IE 10.](https://codeforhire.com/2013/09/21/setimmediate-and-messagechannel-broken-on-internet-explorer-10/)
+but there is a bug: [broken on IE 10.](https://codeforhire.com/2013/09/21/setimmediate-and-messagechannel-broken-on-internet-explorer-10/)
 
 **setTimeout**:
 
